@@ -595,7 +595,7 @@ footer .footer--wrapper {
         background-repeat: no-repeat;
         background-size: contain;
         background-position: left top;
-        top: -100px;
+        top: -80px;
         left: 0;
         z-index: -1;
     }
@@ -609,7 +609,7 @@ footer .footer--wrapper {
         background-repeat: no-repeat;
         background-size: contain;
         background-position: left bottom;
-        bottom: -100px;
+        bottom: -70px;
         left: 0;
         z-index: -1;
     }
@@ -618,13 +618,12 @@ footer .footer--wrapper {
         content: "";
         position: absolute;
         width: 100vw;
-        /* height: 100%; */
-        height: 1000px;
+        height: 100%;
         background: url('/public/images/bg-section-top-desktop-2.svg');
         background-repeat: no-repeat;
         background-size: contain;
         background-position: left top;
-        top: -100px;
+        top: -80px;
         left: 0;
         z-index: -1;
     }
@@ -638,7 +637,7 @@ footer .footer--wrapper {
         background-repeat: no-repeat;
         background-size: contain;
         background-position: left bottom;
-        bottom: -100px;
+        bottom: -70px;
         left: 0;
         z-index: -1;
     }
