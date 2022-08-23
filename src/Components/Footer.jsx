@@ -34,7 +34,7 @@ function Footer() {
             newsletter. We’ll never send you spam or pass on your email address.
           </p>
           <form className="form" onSubmit={handleSubmit}>
-            <label htmlFor="email"></label>
+            <label htmlFor="email">Email</label>
             <input type="text" id="email" />
             <button className="subscribe">Subscribe</button>
           </form>
